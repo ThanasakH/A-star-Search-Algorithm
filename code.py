@@ -5,8 +5,8 @@ import math
 
 ######## RUNNING THE CODE ####################################################
 #   You can run this code from terminal by executing the following command
-#   python planpath.py <INPUT/input#.txt> <OUTPUT/output#.txt> <flag>
-#   for example: python planpath.py INPUT/input2.txt OUTPUT/output2.txt 0
+#   python code.py <INPUT/input#.txt> <OUTPUT/output#.txt> <iteration_number>
+#   for example: python code.py INPUT/input1.txt OUTPUT/output1.txt 100
 #   NOTE: THIS IS JUST ONE EXAMPLE INPUT DATA
 ###############################################################################
 
