@@ -20,7 +20,7 @@ Your task is to write a Python 3 program called planpath that plans a path from 
 - Determine whether this function is admissible or monotonic, and explain why.
 - You will need to implement tie-breaking rules when all options have equal merit. Specify clearly in your documentation what are your tie-breaking rules.
 
-### Excution:
+### Execution:
 Your program will have two command line arguments as follows: python code.py INPUT/inputi.txt OUTPUT/outputi.txt iteration_number
 
 ### Input:
